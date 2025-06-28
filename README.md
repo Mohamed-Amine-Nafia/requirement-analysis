@@ -99,5 +99,21 @@ alx-booking-uc.png
 - Manage Customers
 - Generate Reports
 
+## Acceptance Criteria
+
+Acceptance Criteria play a crucial role in Requirement Analysis by defining the specific conditions that a feature or system must satisfy to be accepted by stakeholders. They provide clear, testable requirements that guide developers and testers, ensuring that the delivered functionality meets the expected behavior and business needs. Well-defined acceptance criteria help prevent misunderstandings, scope creep, and rework by setting precise expectations upfront.
+
+### Example: Acceptance Criteria for Checkout Feature in Booking Management System
+
+- The user must be able to review their booking details (dates, number of guests, price) before proceeding.
+- The system should calculate and display the total price including taxes and fees.
+- Users must be able to enter valid payment information (credit card, debit card, or digital wallet).
+- The checkout process should validate payment details and reject invalid or expired cards.
+- Upon successful payment, the system must generate a booking confirmation and send a confirmation email to the user.
+- If payment fails, an appropriate error message should be displayed, and the user must be able to retry the payment.
+- The checkout process should complete within 10 seconds under normal network conditions.
+- The feature must comply with applicable security standards (e.g., PCI-DSS) to protect payment data.
+
+These criteria help ensure the checkout feature is functional, user-friendly, secure, and reliable.
 
 
