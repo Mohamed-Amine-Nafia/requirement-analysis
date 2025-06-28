@@ -11,10 +11,13 @@ The purpose of this repository is to help developers, students, and stakeholders
 
 **Requirement Analysis** is the process of gathering, analyzing, and defining what a software system should do based on stakeholder needs. It helps ensure the final product meets user expectations and business goals.
 
-### 📌 Importance in SDLC:
-- Defines clear goals and scope.
-- Reduces misunderstandings and errors.
-- Improves planning, design, and testing.
-- Ensures the product solves the right problem.
+## ⚠️ Why is Requirement Analysis Important?
 
-It is a critical step in the Software Development Life Cycle (SDLC) that guides successful project delivery.
+1. **Ensures Clear Understanding**  
+   It helps all stakeholders have a shared and clear understanding of what the software should do, reducing confusion and miscommunication.
+
+2. **Reduces Risks and Costs**  
+   Identifying requirements early prevents costly changes and rework during later stages of development.
+
+3. **Improves Project Planning**  
+   Accurate requirements enable better estimation of time, resources, and budget, leading to more efficient project management.
