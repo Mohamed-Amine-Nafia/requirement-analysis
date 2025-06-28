@@ -21,3 +21,21 @@ The purpose of this repository is to help developers, students, and stakeholders
 
 3. **Improves Project Planning**  
    Accurate requirements enable better estimation of time, resources, and budget, leading to more efficient project management.
+
+   ## 🔑 Key Activities in Requirement Analysis
+
+- **Requirement Gathering**  
+  Collecting initial information from stakeholders about what the system should do.
+
+- **Requirement Elicitation**  
+  Engaging with stakeholders through interviews, surveys, and workshops to uncover detailed needs and expectations.
+
+- **Requirement Documentation**  
+  Recording all gathered requirements clearly in structured documents like the Software Requirements Specification (SRS).
+
+- **Requirement Analysis and Modeling**  
+  Analyzing requirements to detect conflicts, gaps, or ambiguities and representing them using diagrams, models, or workflows.
+
+- **Requirement Validation**  
+  Reviewing requirements with stakeholders to ensure accuracy, completeness, and agreement before development begins.
+
