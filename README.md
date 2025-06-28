@@ -81,7 +81,7 @@ A **Use Case Diagram** visually represents the interactions between users (**act
 
 ### 🎨 Use Case Diagram for the Booking System
 
-![Use Case Diagram]([ChatGPT Image 28 juin 2025, 14_03_40](https://github.com/user-attachments/assets/f678b5c7-738d-4fca-8051-982c412513f1)
+[case diagram](https://github.com/user-attachments/assets/bdb695fc-5ba7-41bf-8976-3d91285c5395)
 )
 
 ### 👥 **Actors:**
