@@ -39,3 +39,30 @@ The purpose of this repository is to help developers, students, and stakeholders
 - **Requirement Validation**  
   Reviewing requirements with stakeholders to ensure accuracy, completeness, and agreement before development begins.
 
+## 🗂️ Types of Requirements
+
+### 🔹 Functional Requirements
+
+Functional requirements define **what the system should do** — the core features and functions.
+
+**Examples for the Booking Management Project:**
+- Allow users to create new bookings for services.
+- Enable users to view, edit, or cancel existing bookings.
+- Send booking confirmation emails to customers.
+- Provide administrators with the ability to manage bookings (add, update, delete).
+- Generate reports for all booking activities.
+
+---
+
+### 🔸 Non-Functional Requirements
+
+Non-functional requirements define **how the system should perform** — qualities, constraints, and standards.
+
+**Examples for the Booking Management Project:**
+- The system should load the booking page within **2 seconds**.
+- Support **up to 1,000 concurrent users** without performance degradation.
+- Ensure **99.9% uptime** for the booking platform.
+- All user data and bookings must be protected with **end-to-end encryption**.
+- The user interface should be responsive and accessible on **desktop, tablet, and mobile devices**.
+
+
