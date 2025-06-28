@@ -65,4 +65,37 @@ Non-functional requirements define **how the system should perform** — qualiti
 - All user data and bookings must be protected with **end-to-end encryption**.
 - The user interface should be responsive and accessible on **desktop, tablet, and mobile devices**.
 
+## 🗺️ Use Case Diagrams
+
+### 📌 What are Use Case Diagrams?
+
+A **Use Case Diagram** visually represents the interactions between users (**actors**) and the system. It shows the different functionalities (use cases) that the system offers and who can perform them.
+
+### ✅ Benefits of Use Case Diagrams:
+- Provides a clear overview of system functionality.
+- Helps identify system boundaries and user interactions.
+- Improves communication between developers, stakeholders, and users.
+- Useful for requirement validation and analysis.
+
+---
+
+### 🎨 Use Case Diagram for the Booking System
+
+![Use Case Diagram](alx-booking-uc.png)
+
+### 👥 **Actors:**
+- **Customer** – Books services, manages their bookings.
+- **Administrator** – Manages bookings, customers, and generates reports.
+
+### 🏷️ **Use Cases:**
+- Create Booking
+- View Booking
+- Edit Booking
+- Cancel Booking
+- Receive Confirmation
+- Manage Bookings
+- Manage Customers
+- Generate Reports
+
+
 
