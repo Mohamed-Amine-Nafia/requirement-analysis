@@ -83,7 +83,7 @@ A **Use Case Diagram** visually represents the interactions between users (**act
 
 alx-booking-uc.png
 
-[alx-booking-uc.png](https://github.com/user-attachments/assets/bdb695fc-5ba7-41bf-8976-3d91285c5395)
+![Image](https://github.com/user-attachments/assets/dc7c681b-9bc0-4a27-8074-dad59a852aca)
 
 
 ### 👥 **Actors:**
