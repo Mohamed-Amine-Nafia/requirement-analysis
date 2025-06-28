@@ -7,17 +7,14 @@ This repository is created to provide a clear understanding of how requirement a
 
 The purpose of this repository is to help developers, students, and stakeholders understand how to capture functional and non-functional requirements effectively to ensure the success of software projects.
 
-## 📂 Repository Structure
+## ❓ What is Requirement Analysis?
 
-- `/docs` – Documentation files (SRS examples, diagrams, templates)
-- `/examples` – Example projects with requirement analysis
-- `/resources` – Useful links and references
-- `README.md` – Introduction and overview of the repository
+**Requirement Analysis** is the process of gathering, analyzing, and defining what a software system should do based on stakeholder needs. It helps ensure the final product meets user expectations and business goals.
 
-## 🚀 Objective
+### 📌 Importance in SDLC:
+- Defines clear goals and scope.
+- Reduces misunderstandings and errors.
+- Improves planning, design, and testing.
+- Ensures the product solves the right problem.
 
-- Demonstrate the process of requirement analysis.
-- Share templates and samples.
-- Help others learn the fundamentals of software requirement gathering.
-
----
+It is a critical step in the Software Development Life Cycle (SDLC) that guides successful project delivery.
